@@ -1,8 +1,20 @@
 #fish{
+    background-color: blueviolet;   
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+
+
+#about{
    background-color: aqua;
-   border: 15px 15px 15px orangered;
+   border: 50px orangered;
    margin: 15px;
    text-align: justify;
    padding: 15px;
    text-decoration: wavy;
+   border-radius: 15px;
+   box-shadow: 15px 15px 15px rgb(1, 126, 126);
 }
